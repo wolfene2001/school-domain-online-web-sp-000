@@ -23,5 +23,5 @@ class School
     @roster[num]
   end
 
-  
+
 end
