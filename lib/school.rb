@@ -14,6 +14,6 @@ class School
     @grade = grade
   end
 
-  
+
 
 end
